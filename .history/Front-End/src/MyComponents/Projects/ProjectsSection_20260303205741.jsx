@@ -35,7 +35,7 @@ export default function ProjectsSection() {
   { 
     title: 'Bayan Group – Hospitality Booking Website', 
     description: 'Multi-property hospitality website with modern responsive UI, structured frontend architecture, and optimized cross-device performance.',
-    image: '/images/bayan.png', 
+    image: 'public/images/bayan.png', 
     link: '#',
     category: 'frontend',
     tags: ['HTML5', 'Tailwind CSS', 'JavaScript', 'Responsive Design'],
@@ -44,7 +44,7 @@ export default function ProjectsSection() {
   { 
     title: 'IIA – Influencer Registration & Certificate Portal', 
     description: 'Secure influencer registration portal with backend validation and automated certificate generation using dynamic rendering system.',
-    image: '/images/iia.png', 
+    image: 'public/images/iia.png', 
     link: '#',
     category: 'backend',
     tags: ['Spring Boot', 'Java', 'Backend Validation'],

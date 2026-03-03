@@ -44,7 +44,7 @@ export default function ProjectsSection() {
   { 
     title: 'IIA – Influencer Registration & Certificate Portal', 
     description: 'Secure influencer registration portal with backend validation and automated certificate generation using dynamic rendering system.',
-    image: '/images/iia.png', 
+    image: 'public/images/iia.png', 
     link: '#',
     category: 'backend',
     tags: ['Spring Boot', 'Java', 'Backend Validation'],

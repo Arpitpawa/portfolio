@@ -17,7 +17,7 @@ export default function ProjectsSection() {
   { 
     title: 'QR Review Generator System', 
     description: 'Custom QR generation platform with logo-centered customization and backend API architecture for review tracking and business growth solutions.',
-    image: '/images/qr-review.png', 
+    image: 'public/images/qr-review.png', 
     link: '#',
     category: 'product',
     tags: ['React.js', 'Flask', 'Tailwind CSS', 'REST API'],
@@ -26,7 +26,7 @@ export default function ProjectsSection() {
   { 
     title: 'Nehru Garden Island – Ticket Booking Platform', 
     description: 'Online ticket booking system with unique QR generation for each booking, automated email confirmations, and admin dashboard for ticket validation and tracking.',
-    image: '/images/nehrugarden.png', 
+    image: 'public/images/nehrugarden.png', 
     link: '#',
     category: 'fullstack',
     tags: ['Python Flask', 'JavaScript', 'QR System', 'Admin Dashboard'],
@@ -35,7 +35,7 @@ export default function ProjectsSection() {
   { 
     title: 'Bayan Group – Hospitality Booking Website', 
     description: 'Multi-property hospitality website with modern responsive UI, structured frontend architecture, and optimized cross-device performance.',
-    image: '/images/bayan.png', 
+    image: 'public/images/bayan.png', 
     link: '#',
     category: 'frontend',
     tags: ['HTML5', 'Tailwind CSS', 'JavaScript', 'Responsive Design'],
@@ -44,7 +44,7 @@ export default function ProjectsSection() {
   { 
     title: 'IIA – Influencer Registration & Certificate Portal', 
     description: 'Secure influencer registration portal with backend validation and automated certificate generation using dynamic rendering system.',
-    image: '/images/iia.png', 
+    image: 'public/images/iia.png', 
     link: '#',
     category: 'backend',
     tags: ['Spring Boot', 'Java', 'Backend Validation'],
