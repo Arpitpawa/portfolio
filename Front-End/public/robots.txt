@@ -1,0 +1,6 @@
+# robots.txt for Arpit.dev
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://Arpit.dev/sitemap.xml
